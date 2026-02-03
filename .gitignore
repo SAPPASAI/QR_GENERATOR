@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# QR generated files
+static/qrcodes/
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
